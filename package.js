@@ -1,10 +1,10 @@
 Package.describe({
   name: 'dmitrymemco:errors',
-  version: '0.0.2',
+  version: '0.0.3',
   // Brief, one-line summary of the package.
   summary: 'Механизм отображения ошибок приложения пользователю',
   // URL to the Git repository containing the source code for this package.
-  git: '',
+  git: 'https://github.com/d-eliseev/meteor-errors',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
   documentation: 'README.md'
